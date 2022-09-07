@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="D45913EB-F276-4CD0-9B7C-7CF08272B84E" version="0">
+<presentation availableOffline="1" guid="11736640-19DA-4159-9B4C-92DC28D7A11D" version="0">
 	<info>
 		<title>p7p8</title>
 		<description/>
 	</info>
-	<files index="id283" thumbnail="id279" totalSize="7945578">
+	<files index="id283" thumbnail="id279" totalSize="5683982">
 		<file id="id0">data/audios/snd-00d8-510d-f053-1697.mp3</file>
 		<file id="id1">data/audios/snd-0139-f08f-ca91-8f6b.mp3</file>
 		<file id="id2">data/audios/snd-041d-6318-a1f3-4267.mp3</file>
